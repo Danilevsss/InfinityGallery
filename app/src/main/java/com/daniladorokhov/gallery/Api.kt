@@ -5,7 +5,7 @@ import retrofit2.http.GET
 import retrofit2.http.Path
 import retrofit2.http.Query
 
-const val CLIENT_ID = "CaYGk2rpZC2xkxnAL-uNMrld8_sUThDRFyWWX2g6_l8"
+const val CLIENT_ID = ""
 
 interface Api {
     @GET("photos")
